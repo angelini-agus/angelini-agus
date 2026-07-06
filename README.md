@@ -14,7 +14,7 @@ Currently in my last semester of my degree, **Associate's Degree in Programming*
 
 ## Tech Stack
 
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="350" align="right" />
+<img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/techstack.gif" width="350" align="right" />
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
