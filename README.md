@@ -2,50 +2,17 @@
 
 # Agustin Angelini
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=450&height=45&lines=Software+Developer;Full-Stack+Developer;Building+Scalable+ERP+Systems;Programming+Student+at+UTN)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=450&height=45&lines=Software+Developer;Full-Stack+Developer;Building+Scalable+ERP+Systems;Full-Stack+Engineer+Student+at+UTN)
 
 </div>
 
----
-
 ## Who I Am
 
-Software Developer focused on creating scalable solutions and automating administrative processes. I have hands-on experience in the end-to-end development of ERP systems and internal workflow management, working across the full stack with React on the frontend and Node.js-based frameworks on the backend.
+I am a full stack engineering student, already taking the final semester of my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that provides cleaning services to many locations. I love to learn and build something new, productive, innovative and creative.
 
-Currently completing an **Associate's Degree in Programming** at the **National Technological University (UTN)** *(2025 – Present)*, combining academic training with production-level software development experience.
+Currently in my last semester of my degree, **Associate's Degree in Programming** at the **National Technological University (UTN)** *(2025 – Present)*, combining academic training with production-level software development experience.
 
 My work is guided by systems analysis and software architecture, with a focus on optimizing business productivity through clean, maintainable code.
-
----
-
-## What I'm Working On
-
-### ServiceTrack — Internal ERP System
-**Full-Stack Developer** at AZ Servicios de Limpieza · *2024 – Present*
-
-Leading the end-to-end development of an internal ERP system built to digitize attendance tracking and streamline payroll operations.
-
-- Designed an attendance module combining **QR code scanning** with **GPS location validation**
-- Optimized backend logic for payroll processing and worked-hours calculations
-- Modeled the relational database schema to represent complex business entities
-
-### Notes Studio — Featured Project
-**Full-Stack Application**
-
-A personal project built to explore a clean, production-style architecture end to end.
-
-- Single-page application built with **React** and **Vite**
-- Robust REST API developed with **NestJS**
-- Logical (soft) archiving system with advanced filtering capabilities
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
----
 
 ## Tech Stack
 
@@ -72,8 +39,6 @@ A personal project built to explore a clean, production-style architecture end t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ## How to Reach Me
 
