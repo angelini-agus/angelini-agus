@@ -8,13 +8,13 @@
 
 ## Who I Am
 
-I am a full stack engineering student, already taking the final semester of my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that provides cleaning services to many locations. I love to learn and build something new, productive, innovative and creative.
+I am a full stack engineering student, and I have hands-on experience in the end-to-end development. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that provides cleaning services to many locations. I love to learn and build something new, productive, innovative and creative.
 
 Currently in my last semester of my degree, **Associate's Degree in Programming** at the **National Technological University (UTN)** *(2025 – Present)*, combining academic training with production-level software development experience.
 
-My work is guided by systems analysis and software architecture, with a focus on optimizing business productivity through clean, maintainable code.
-
 ## Tech Stack
+
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="450" align="right" />
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
