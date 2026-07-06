@@ -4,13 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=450&height=45&lines=Software+Developer;Full-Stack+Developer;Building+Scalable+ERP+Systems;Programming+Student+at+UTN)
 
-<sub>Rosario, Santa Fe, Argentina</sub>
-
 </div>
-
-<br>
-
-> Building scalable, business-driven software — from relational database design to production-ready systems.
 
 ---
 
