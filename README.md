@@ -36,6 +36,12 @@ Currently in my last semester of my degree, **Associate's Degree in Programming*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
+### Architecture & Practices
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0F172A?style=for-the-badge)
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-0F172A?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-0F172A?style=for-the-badge)
+
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
