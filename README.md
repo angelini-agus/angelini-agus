@@ -34,7 +34,7 @@ Currently in my last semester of my degree, **Associate's Degree in Programming*
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
