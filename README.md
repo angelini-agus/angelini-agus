@@ -8,9 +8,9 @@
 
 ## Who I Am
 
-I am a full stack engineering student, and I have hands-on experience in the end-to-end development. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that provides maintenance and management services. I love to learn and build something new, productive, innovative and creative.
+I am a full-stack developer and co-founder of [**Misure**](https://www.misure.dev/), a software factory that builds custom systems for small businesses. I also work as a software developer at a company in the maintenance and management services industry.
 
-Currently in my last semester of my degree, **Associate's Degree in Programming** at the **National Technological University (UTN)** *(2025 – Present)*, combining academic training with production-level software development experience.
+I am in my last semester of the **Associate's Degree in Programming** at the **National Technological University (UTN)**. I have built software for real clients: an ERP for a pediatric clinic, running in production today, and the landing page and field operations platform for a cleaning services company.
 
 ## Tech Stack
 
