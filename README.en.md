@@ -19,17 +19,17 @@ Full-Stack Developer focused on the **backend (.NET / SQL)**, with experience ta
 
 ## Featured Projects
 
-**Legal Manager — Legal Case Management System**
-Full platform under **Clean Architecture** with role-based access control (JWT), dynamic PDF case-file generation and **AI integrations** to summarize documents and generate personalized reminders. Sold to a real client and currently in production.
-`.NET Web API` · `Entity Framework Core` · `React` · `SQL Server` → [API repo](https://github.com/francocus/legal-manager-api)
+- **Legal Manager — Legal Case Management System**
+  Full platform under **Clean Architecture** with role-based access control (JWT), dynamic PDF case-file generation and **AI integrations** to summarize documents and generate personalized reminders. Sold to a real client and currently in production.
+  `.NET Web API` · `Entity Framework Core` · `React` · `SQL Server` → [API repo](https://github.com/francocus/legal-manager-api)
 
-**ServiceTrack — Internal ERP (AZ Servicios de Limpieza)**
-End-to-end design, architecture, programming and maintenance of the company's core system: payroll engine (hours, replacements, taxes) and **QR/GPS attendance control** (+15 employees), saving **40 working hours per month**.
-`C#/.NET` · `React` · `SQL Server` → [repo](https://github.com/angelini-agus/ServiceTrack)
+- **ServiceTrack — Internal ERP (AZ Servicios de Limpieza)**
+  End-to-end design, architecture, programming and maintenance of the company's core system: payroll engine (hours, replacements, taxes) and **QR/GPS attendance control** (+15 employees), saving **40 working hours per month**.
+  `C#/.NET` · `React` · `SQL Server` → [repo](https://github.com/angelini-agus/ServiceTrack)
 
-**Pediatric Clinic ERP**
-Appointments and digital medical-records platform in production, with role-based permission control and complete technical documentation.
-`Node.js` · `React` · `SQL` → [repo](https://github.com/angelini-agus/pediatric-clinic-erp)
+- **Pediatric Clinic ERP**
+  Appointments and digital medical-records platform in production, with role-based permission control and complete technical documentation.
+  `Node.js` · `React` · `SQL` → [repo](https://github.com/angelini-agus/pediatric-clinic-erp)
 
 ## Tech Stack
 

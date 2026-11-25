@@ -19,17 +19,17 @@ Desarrollador Full-Stack con foco en el **backend (.NET / SQL)** y experiencia l
 
 ## Proyectos destacados
 
-**Legal Manager — Sistema de gestión de expedientes jurídicos**
-Plataforma integral bajo **Clean Architecture** con control de acceso por roles (JWT), generación dinámica de expedientes en PDF e **integraciones con IA** para resumir documentos y generar recordatorios personalizados. Vendido a un cliente real y actualmente en producción.
-`.NET Web API` · `Entity Framework Core` · `React` · `SQL Server` → [repo de la API](https://github.com/francocus/legal-manager-api)
+- **Legal Manager — Sistema de gestión de expedientes jurídicos**
+  Plataforma integral bajo **Clean Architecture** con control de acceso por roles (JWT), generación dinámica de expedientes en PDF e **integraciones con IA** para resumir documentos y generar recordatorios personalizados. Vendido a un cliente real y actualmente en producción.
+  `.NET Web API` · `Entity Framework Core` · `React` · `SQL Server` → [repo de la API](https://github.com/francocus/legal-manager-api)
 
-**ServiceTrack — ERP interno (AZ Servicios de Limpieza)**
-Diseño, arquitectura, programación y mantenimiento end-to-end del sistema central de la empresa: motor de liquidación de sueldos (horas, reemplazos, impuestos) y **control de asistencia por QR/GPS** (+15 empleados), ahorrando **40 horas de trabajo por mes**.
-`C#/.NET` · `React` · `SQL Server` → [repo](https://github.com/angelini-agus/ServiceTrack)
+- **ServiceTrack — ERP interno (AZ Servicios de Limpieza)**
+  Diseño, arquitectura, programación y mantenimiento end-to-end del sistema central de la empresa: motor de liquidación de sueldos (horas, reemplazos, impuestos) y **control de asistencia por QR/GPS** (+15 empleados), ahorrando **40 horas de trabajo por mes**.
+  `C#/.NET` · `React` · `SQL Server` → [repo](https://github.com/angelini-agus/ServiceTrack)
 
-**ERP médico pediátrico**
-Plataforma de gestión de turnos e historias clínicas digitales en producción, con control de permisos por rol y documentación técnica completa.
-`Node.js` · `React` · `SQL` → [repo](https://github.com/angelini-agus/pediatric-clinic-erp)
+- **ERP médico pediátrico**
+  Plataforma de gestión de turnos e historias clínicas digitales en producción, con control de permisos por rol y documentación técnica completa.
+  `Node.js` · `React` · `SQL` → [repo](https://github.com/angelini-agus/pediatric-clinic-erp)
 
 ## Stack técnico
 
