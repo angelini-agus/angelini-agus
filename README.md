@@ -1,41 +1,41 @@
 <div align="center">
 
-**English** | [Español](README.es.md)
+**Español** | [English](README.en.md)
 
 # Agustín Angelini
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=520&height=45&lines=Full-Stack+Developer;C%23+.NET+%C2%B7+React+%C2%B7+SQL;ERP%2FCRM+systems+in+production;Clean+Architecture+%C2%B7+SOLID)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=520&height=45&lines=Full-Stack+Developer;C%23+.NET+%C2%B7+React+%C2%B7+SQL;Sistemas+ERP%2FCRM+en+producci%C3%B3n;Clean+Architecture+%C2%B7+SOLID)
 
 </div>
 
-## About Me
+## Sobre mí
 
-Full-Stack Developer focused on the **backend (.NET / SQL)**, with experience taking **management systems (ERP/CRM) to production end to end** for business, legal and healthcare clients.
+Desarrollador Full-Stack con foco en el **backend (.NET / SQL)** y experiencia llevando **sistemas de gestión (ERP/CRM) a producción de punta a punta** para los sectores empresarial, legal y de salud.
 
-- Co-founder of **DEFTCODE**, a custom software studio with **7 delivered projects** (2026 - present).
-- **Systems Lead at AZ Servicios de Limpieza**: end-to-end owner of **ServiceTrack**, the company's internal ERP, running in production.
-- REST APIs in **C# / .NET** under **Clean Architecture** and **SOLID**, databases in **SQL Server and PostgreSQL**, frontends in **React and TypeScript**.
-- **AI integrations** for document processing, summaries and automated reminders, under agile methodologies (Scrum).
+- Co-fundador de **DEFTCODE**, estudio de software a medida con **7 proyectos entregados** (2026 - actualidad).
+- **Responsable de Sistemas en AZ Servicios de Limpieza**: dueño end-to-end de **ServiceTrack**, el ERP interno de la empresa, en producción.
+- APIs REST en **C# / .NET** bajo **Clean Architecture** y **SOLID**, bases de datos en **SQL Server y PostgreSQL**, interfaces en **React y TypeScript**.
+- **Integraciones con IA** para procesamiento de documentos, resúmenes y recordatorios automatizados, bajo metodologías ágiles (Scrum).
 
-## Featured Projects
+## Proyectos destacados
 
-**🔹 Legal Manager — Legal Case Management System**
-Full platform under **Clean Architecture** with role-based access control (JWT), dynamic PDF case-file generation and **AI integrations** to summarize documents and generate personalized reminders. Sold to a real client and currently in production.
-`.NET Web API` · `Entity Framework Core` · `React` · `SQL Server` → [API repo](https://github.com/francocus/legal-manager-api)
+**🔹 Legal Manager — Sistema de gestión de expedientes jurídicos**
+Plataforma integral bajo **Clean Architecture** con control de acceso por roles (JWT), generación dinámica de expedientes en PDF e **integraciones con IA** para resumir documentos y generar recordatorios personalizados. Vendido a un cliente real y actualmente en producción.
+`.NET Web API` · `Entity Framework Core` · `React` · `SQL Server` → [repo de la API](https://github.com/francocus/legal-manager-api)
 
-**🔹 ServiceTrack — Internal ERP (AZ Servicios de Limpieza)**
-End-to-end design, architecture, programming and maintenance of the company's core system: payroll engine (hours, replacements, taxes) and **QR/GPS attendance control** (+15 employees), saving **40 working hours per month**.
+**🔹 ServiceTrack — ERP interno (AZ Servicios de Limpieza)**
+Diseño, arquitectura, programación y mantenimiento end-to-end del sistema central de la empresa: motor de liquidación de sueldos (horas, reemplazos, impuestos) y **control de asistencia por QR/GPS** (+15 empleados), ahorrando **40 horas de trabajo por mes**.
 `C#/.NET` · `React` · `SQL Server` → [repo](https://github.com/angelini-agus/ServiceTrack)
 
-**🔹 Pediatric Clinic ERP**
-Appointments and digital medical-records platform in production, with role-based permission control and complete technical documentation.
+**🔹 ERP médico pediátrico**
+Plataforma de gestión de turnos e historias clínicas digitales en producción, con control de permisos por rol y documentación técnica completa.
 `Node.js` · `React` · `SQL` → [repo](https://github.com/angelini-agus/pediatric-clinic-erp)
 
-**🔹 Leads CRM — Custom Sales CRM**
-Sales management, lead tracking, automatic duplicate detection and automated reports. In production.
+**🔹 Leads CRM — CRM de ventas personalizado**
+Gestión comercial, seguimiento de leads, detección automática de duplicados y reportes automatizados. En producción.
 `C#/.NET` · `React` · `SQL` → [repo](https://github.com/angelini-agus/leads-crm)
 
-## Tech Stack
+## Stack técnico
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -45,7 +45,7 @@ Sales management, lead tracking, automatic duplicate detection and automated rep
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### Databases
+### Bases de datos
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,15 +63,15 @@ Sales management, lead tracking, automatic duplicate detection and automated rep
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Architecture & Practices
+### Arquitectura y prácticas
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-0F172A?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge)
+![APIs REST](https://img.shields.io/badge/APIs_REST-0F172A?style=for-the-badge)
 ![JWT / RBAC](https://img.shields.io/badge/JWT_%2F_RBAC-0F172A?style=for-the-badge)
-![AI Integration](https://img.shields.io/badge/AI_Integration-0F172A?style=for-the-badge)
+![Integración de IA](https://img.shields.io/badge/Integraci%C3%B3n_de_IA-0F172A?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-0F172A?style=for-the-badge)
 
-### Tools & Cloud
+### Herramientas y cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -81,21 +81,21 @@ Sales management, lead tracking, automatic duplicate detection and automated rep
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Experience
+## Experiencia
 
-**Full-Stack Developer & Co-Founder** — DEFTCODE (2026 - present)
-Custom software studio: 7 delivered projects for business, legal and healthcare clients.
+**Full-Stack Developer & Co-Founder** — DEFTCODE (2026 - actualidad)
+Estudio de software a medida: 7 proyectos entregados para los sectores empresarial, legal y de salud.
 
-**Systems Lead** — AZ Servicios de Limpieza (2024 - present)
-End-to-end owner of ServiceTrack, the company's internal ERP.
+**Responsable de Sistemas** — AZ Servicios de Limpieza (2024 - actualidad)
+Dueño end-to-end de ServiceTrack, el ERP interno de la empresa.
 
-## Education & Certification
+## Educación y certificación
 
-- **Associate's Degree in Programming (TUP)** — UTN, Facultad Regional Rosario — completed (2025 - 2026)
-- **BSc in Information Systems Engineering** — UTN, Facultad Regional Rosario — 3 years completed (2022 - 2024)
-- **Certification:** ASP.NET Core 10 (.NET 10) — 2026
+- **Tecnicatura Universitaria en Programación (TUP)** — UTN, Facultad Regional Rosario — finalizada (2025 - 2026)
+- **Ingeniería en Sistemas de Información** — UTN, Facultad Regional Rosario — 3 años cursados (2022 - 2024)
+- **Certificación:** ASP.NET Core 10 (.NET 10) — 2026
 
-## How to Reach Me
+## Cómo contactarme
 
 <div align="center">
 
